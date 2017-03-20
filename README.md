@@ -1,4 +1,4 @@
-# more.colander
+# more.colander: Colander support for Morepath
 
 This package provides Morepath integration for the [Colander](http://docs.pylonsproject.org/projects/colander/en/latest/) object serialization library:
 

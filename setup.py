@@ -31,7 +31,7 @@ long_description = '\n'.join((
 ))
 
 install_requires = [
-    'morepath',
+    'morepath >= 0.18',
     'colander'
 ]
 
@@ -56,7 +56,7 @@ pypi_require = [
 setup(
     name='more.colander',
     version=version,
-    url='https://github.com/blaflamme/more.colander',
+    url='https://github.com/morepath/more.colander',
     license='BSD',
     author='Blaise Laflamme',
     author_email='blaise@laflamme.org',
